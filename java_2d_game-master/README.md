@@ -1,6 +1,5 @@
-# Making Your First Game in Java
+# Making  First Game in Java
 
-Source code for a video game project tutorial on the **Learn Code By Gaming** YouTube channel.
 
 Watch it here: COMING SOON
 
